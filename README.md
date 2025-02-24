@@ -7,7 +7,7 @@ A project for computer vision subject that predicts whether someone has brain tu
 - Reduce the workload of medical professionals.
 - Enhance overall efficiency in medical diagnostics.
 
-## Special thanks to the contributors
+## Contributors
 1. Axel Kurniawan
 2. Frederick Chandra
 3. Hendra Hartanto
